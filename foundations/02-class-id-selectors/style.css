@@ -12,3 +12,9 @@
 .background-testo {
     font-size: 24px;
 }
+
+#altro {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
