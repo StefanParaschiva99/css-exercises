@@ -48,6 +48,13 @@ body {
   justify-content: center;
 }
 
+.top {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: larger;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
