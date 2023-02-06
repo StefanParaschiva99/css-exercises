@@ -6,6 +6,7 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
   display: flex;
+  flex-direction: column;
 }
 
 ul {
@@ -19,12 +20,12 @@ a {
 
 .header {
   display: flex;
+  justify-content: space-between;
 }
 
 .left-links {
   display: flex;
   gap: 16px;
-  
 }
 
 .right-links {
@@ -53,6 +54,6 @@ input {
 
 .footer {
   display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-between;
+  background-color: #eee;
 }
