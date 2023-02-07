@@ -16,10 +16,11 @@ body {
   justify-content: space-between;
 }
 
-.left {
+.left, .right {
   display: flex;
   align-items: center;
-  margin-left: 8px;
+  margin: 8px;
+  gap: 16px;
 }
 
 .profile-image {
