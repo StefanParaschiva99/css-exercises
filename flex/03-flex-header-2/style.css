@@ -16,10 +16,7 @@ body {
   justify-content: space-between;
 }
 
-.left, .links {
-  display: flex;
-  align-items: center;
-}
+
 
 .profile-image {
   background: rebeccapurple;
