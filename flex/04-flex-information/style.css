@@ -4,17 +4,12 @@ body {
 
 .container {
   display: flex;
-  background-color: aliceblue;
   justify-content: center;
-  gap: 38px;
+  gap: 52px;
 }
 
 .item {
-  display: flex;
   width: 200px;
-  background-color: blueviolet;
-  flex-wrap: wrap;
-  justify-content: center;
   text-align: center;
 }
 
@@ -26,6 +21,8 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
