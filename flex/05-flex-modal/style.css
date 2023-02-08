@@ -22,17 +22,19 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   padding: 16px;
   display: flex;
+  gap: 10px;
 }
 
 .container {
-background-color: azure;
+
 }
 
 .top {
-  background-color: antiquewhite;
   display: flex;
   justify-content: space-between;
-
+  font-size: larger;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
 .icon {
