@@ -37,6 +37,10 @@ body {
   margin-bottom: 10px;
 }
 
+.content {
+  width: 98%;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
