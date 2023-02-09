@@ -35,6 +35,13 @@ body {
   background: royalblue;
   display: flex;
   flex-shrink: 0;
+  font-size: 24px;
+  padding: 16px;
+}
+
+.links {
+  margin: 0;
+  padding: 0;
 }
 
 .left {
