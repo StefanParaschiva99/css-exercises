@@ -40,3 +40,9 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+li, a {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
