@@ -17,6 +17,10 @@ body {
   font-weight: 900;
 }
 
+.text {
+  margin-left: 16px;
+}
+
 .footer {
   height: 72px;
   background: #eee;
